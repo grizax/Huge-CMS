@@ -3,7 +3,7 @@ title: "Great coffee with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: What we do?
+    heading: What do we do?
     text: "Foster Flow is for everyone who believes that a great life should do good. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
